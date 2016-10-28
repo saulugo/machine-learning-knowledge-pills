@@ -1,9 +1,9 @@
 # Reproducible Data Science (a practical approach)
-This proposal aims to show a comprehensive methodology and framework to tackle Big Data analytical problems. Data Science is a recent area fostered by recent advances in computation and the availability of massive datasets about nearly everything. This fact makes the field a little immature with respect to experiment protocols, process tracking and reproducibility of results.
+This proposal aims to show a comprehensive methodology and framework to tackle Big Data analytical problems. Data Science is a recent area fostered by recent advances in computation, and the availability of massive datasets about nearly everything. This fact makes the field a little immature with respect to experiment protocols, process tracking and reproducibility of results.
 
 For any scientific problem, and also in Data Science, it is important to keep track of the experiments (who did this, where it came from, how it was done, what data was used, what model was trained, etc). It is also important to ensure the reproducibility of the results to be able to repeat an experiment with the same data and the same model. 
 
-Next, let see a practical guide on how to complete an analytics Big Data problem with rigor and safety.
+Next, let's see a practical guide on how to complete an analytics Big Data problem with rigor and safety.
 
 
 
@@ -129,9 +129,9 @@ A couple of advices to tackle an analytical problem:
 
 In this case, opening the code and the data depends on your analytics platform and the permissions given by the system administrators.
 
-* Collaborative tools like [**Dataiku DSS**](http://www.dataiku.com/) allows sharing workflows, code and data easily across organizations.
+* Collaborative tools like [**Dataiku DSS**](http://www.dataiku.com/) allow sharing workflows, code and data easily across organizations.
 
-* If your business allows it, open platforms like [**Github**](https://github.com/) or [**Gitlab**](https://gitlab.com/) provides a wider audience for your analysis.
+* If your business allows it, open platforms like [**Github**](https://github.com/) or [**Gitlab**](https://gitlab.com/) provide a wider audience for your analysis.
 
 * Results can also be made public in platforms like [**Rpubs**](https://rpubs.com/) or [**Gitbooks**](https://www.gitbook.com/).
 
